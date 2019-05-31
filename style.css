@@ -1,3 +1,7 @@
-h1, h2 {
-  font-family: Lato;
+.pointer{
+  height: 10px;
+  width:10px;
+  background-color: red;
+  border: 5px;
+  position: absolute;
 }
